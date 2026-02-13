@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 # 💬 Facial Expression Recognition: A Machine Learning Approach
