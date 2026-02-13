@@ -1,0 +1,6 @@
+Train-Test Ratio,Linear Kernel Accuracy (%),Polynomial Kernel Accuracy (%),RBF Kernel Accuracy (%)
+10% Test Set,87.5,83.0,89.0
+20% Test Set,85.2,82.4,88.1
+30% Test Set,83.1,80.8,86.3
+40% Test Set,80.5,78.7,84.2
+50% Test Set,78.4,75.9,81.5
